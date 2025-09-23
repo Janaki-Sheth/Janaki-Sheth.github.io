@@ -6,11 +6,11 @@ title: Publications
 
 ### Journal Papers
 
-* [Localist versus distributed representation of sounds in the auditory cortex controlled by distinct inhibitory neuronal 
-subtypes](https://www.biorxiv.org/content/10.1101/2023.02.01.526470v1) <br> M. Tobin, J. Sheth, K. Wood, M. Geffen. <br> *Biorxiv* 2023
+* [Individual-specific strategies inform category learning](https://www.nature.com/articles/s41598-024-82219-8) <br> J. Collina, G.Erdil, M. Xia, C. Angeloni, K. Wood, J. Sheth, K. Kording, Y. Cohen, M. Geffen. <br> *Sci Rep 15, 2984* 2025
 
-* [The interplay of uncertainty, relevance and learning influences auditory categorization](https://www.biorxiv.org/content/10.1101/2022.12.01.518777v1) <br> J. Sheth, J. Collina, E. 
-Piasini, K. Kording, Y. Cohen, M. Geffen. <br> *Biorxiv* 2022
+* [The interplay of uncertainty, relevance and learning influences auditory categorization](https://www.nature.com/articles/s41598-025-86856-5) <br> J. Sheth, J. Collina, E. Piasini, K. Kording, Y. Cohen, M. Geffen. <br> *Sci Rep 15, 3348* 2025
+
+* [Distinct Inhibitory Neurons Differently Shape Neuronal Codes for Sound Intensity in the Auditory Cortex](https://www.jneurosci.org/content/45/2/e1502232024) <br> M. Tobin, J. Sheth, K. Wood, E. Michael, M. Geffen. <br> *J. Nueroscience, 45 (2) e1502232024* 2024
 
 * [Violation of generalized fluctuation-dissipation theorem in biological limit cycle oscillators with state-dependent internal drives: Applications to hair cell oscillations](https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.3.023150) <br> 	J. Sheth, D. Bozovic, A.J. Levine. <br> *PRResearch 3, 023150* 2021
 
