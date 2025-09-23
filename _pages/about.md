@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title:  Janaki Sheth
-description: <a href="">Data Sceience Senior Consultant, ClearView HealthCare Partners</a>.
+description: <a href="">Data Science Senior Consultant, ClearView HealthCare Partners</a>.
 
 profile:
   align: right
