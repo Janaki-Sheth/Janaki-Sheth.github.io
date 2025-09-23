@@ -1,18 +1,14 @@
 ---
 layout: page
 permalink: /outreach/
-title: Teaching, Mentorship and Outreach
+title: Leadership, Mentorship and Teaching
 ---
-### Outreach
+### Leadership
+Organizer and Moderator, Parenting at ClearView Panel -- Organized and moderated a panel of 4 women, discussing how to balance parenting along side having a demanding career (Sept 2025)
 
-[Team Lead for Audition Station](https://drive.google.com/drive/folders/1Csdhgg_frCQJ_L-vKSmbUM1zmVCtQeK0?usp=sharing), Kids Judge, a UPenn 
-outreach for elementary school kids from West Philadelphia (Spring 2023)
-
-Grant Reviewer, DEI reviewer for grants and finance committee, National Science Policy Network (Fall 2022)
+[Team Lead for Audition Station](https://drive.google.com/drive/folders/1Csdhgg_frCQJ_L-vKSmbUM1zmVCtQeK0?usp=sharing), Kids Judge, a UPenn outreach event for elementary school kids from West Philadelphia (Spring 2023)
 
 [Co-organizer](https://docs.google.com/presentation/d/1w_Twb0VZlkCKuArOoUXYnwEyaOpuPNK_kQQCuUWcxOI/edit#slide=id.p), Science Policy 101 Workshop, PSPDG UPenn (Fall 2022)
-
-[Reviewer](https://ghc.anitab.org/get-involved/vghc-21-committees/), Data Science Track, Grace Hopper Celebration (2021-2022)
 
 [Co-organizer](https://web.sas.upenn.edu/dive/staff/), 2021 and 2022 MindCORE Diversity and Equity Initiative weekend (Admissions and Data; Outcomes Committees) (Oct 2020 - Oct 2022)
 
@@ -21,6 +17,8 @@ Grant Reviewer, DEI reviewer for grants and finance committee, National Science 
 Outreach co-coordinator and academic mentor, Avanti Fellows, a higher education non-profit in Bombay, India (2012-2014)
 
 ### Mentorship
+College and Career Success Mentor, Big Brother Big Sister, New YOrk, *Mentee: Alba Calderon (studies at Hunter College)*
+
 Project Mentor, Neuromatch Computational Neuroscience Summer School (July 2022)
 
 Graduate student mentor<br>
