@@ -23,28 +23,35 @@ title: Publications
 
 ### Peer-reviewed Conferences
 
-* [Relevance, uncertainty, and expectations affect categorization](https://2022.ccneuro.org/proceedings/0000196.pdf) <br>  J.Sheth, J. Collina, K. Kording. Y. Cohen, M. Geffen <br> *Proceedings of CCN,* 2022
+* The Interplay of Relevance, Sensory uncertainty, and Statistical Learning influences Auditory Categorization <br>  J.Sheth, J. Collina, K. Kording. Y. Cohen, M. Geffen <br> *Proceedings of Cognitive Science Society,* 2023
+
+* [Relevance, Uncertainty, and Expectations Affect Categorization](https://2022.ccneuro.org/proceedings/0000196.pdf) <br>  J.Sheth, J. Collina, K. Kording. Y. Cohen, M. Geffen <br> *Proceedings of CCN,* 2022
 
 * Lessons From Organising The Diversity And Equity Initiative At University Of Pennsylvania <br> J. Sheth <br> 
 *Grace Hopper Celebration,* 2022 <br> (selected to give a lightning talk)
 
-* [Bootstrapping Multilingual AMR with Contextual Word 
-Alignments](https://aclanthology.org/2021.eacl-main.30.pdf) <br> J. Sheth, Y.S. Lee, R. F. Astudillo, T. 
+* [Bootstrapping Multilingual AMR with Contextual Word Alignments](https://aclanthology.org/2021.eacl-main.30.pdf) <br> J. Sheth, Y.S. Lee, R. F. Astudillo, T. 
 Naseem, R. Florian, S. Roukos, T. Ward <br>*Proceedings of EACL,* 2021 <br> (selected to give a talk - 5% 
 acceptance rate)
 
-* Role of contextual word alignments in multilingual Abstract Meaning Representation <br>  J. Sheth <br> *Grace 
+* Role of Contextual Word Alignments in Multilingual Abstract Meaning Representation <br>  J. Sheth <br> *Grace 
 Hopper Celebration,* 2021 <br>  (awarded Google scholarship to attend conference)
 
-* [Translating neural singals to text using a Brain-Computer Interface](https://openreview.net/pdf?id=B1lj77F88B) <br> J. Sheth, A. Tankus, M. Tran, N. Pouratian, I. Fried, W. Speier. <br>*NeurIPS Workshop on Neuro+AI,* 2019
+* [Translating Neural Signals to Text using a Brain-Computer Interface](https://openreview.net/pdf?id=B1lj77F88B) <br> J. Sheth, A. Tankus, M. Tran, N. Pouratian, I. Fried, W. Speier. <br>*NeurIPS Workshop on Neuro+AI,* 2019
 
-* [Identifying input features for development of real-time translation of neural signals to 
-text](https://www.isca-speech.org/archive/interspeech_2019/sheth19_interspeech.html) 
+* [Identifying Input Features for Development of Eeal-Time Translation of Neural Signals to Text](https://www.isca-speech.org/archive/interspeech_2019/sheth19_interspeech.html) 
 <br> J. Sheth, A. Tankus, M. Tran, L. Comstock, I. Fried, W. Speier <br>*Proceedings of Interspeech,* 2019
 
-* [Micromagnetic Study of Magnetization reversal and Dipolar interactions in NiFe Nano 
-Disks](https://aip.scitation.org/doi/abs/10.1063/1.4791090?class=pdf&journalCode=apc) <br>J. Sheth, D. 
+* [Micromagnetic Study of Magnetization reversal and Dipolar interactions in NiFe Nano Disks](https://aip.scitation.org/doi/abs/10.1063/1.4791090?class=pdf&journalCode=apc) <br>J. Sheth, D. 
 Venkateswarlu, P.S. Anil Kumar <br> *DAE Solid State Symposium, Dept. of Atomic Energy India,* 2013
+
+### Panels
+
+* Judge at Penn-Yale-Princeton-Columbia Case*, 2025
+
+* Panelist at "Accelerate Action", Philanthropy advancing Women Empowerment at ClearView HealthCare Partners, 2025
+
+* Panelist at "Careers Outside of Academia", Professional Development Panel for Auditory Neuroscientists at UPenn E.A.R.S Seminar Series, 2024
 
 ### Talks
 
